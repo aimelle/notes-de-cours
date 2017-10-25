@@ -2,3 +2,18 @@ notes de cours de git
 =====================
 
 cours du 25 octobre 2017
+
+- mkdir notes-de-cours
+- cd notes-de-cours
+- git init
+- *créer et éditer un fichier cours1.txt via bloc note*
+(// git status : untracked / non-suivi)
+- git add cours1.txt
+(// git status fichier dans la staging area)
+- git commit -m "Notes du cours 1"
+(// git status : rien à valider)
+// On a enregistré le premier fichier
+// Et j'ai ajouté ces notes de cours
+- git diff
+- git add
+(// git diff : n'affiche rien parce que les modifications sont dans la taging area)
