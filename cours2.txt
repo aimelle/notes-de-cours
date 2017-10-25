@@ -1,0 +1,1 @@
+Les BRANCHES sont comme des "sauvegarder sous" pour l'ensemble du dépôt. La branche par défaut s'appelle MASTER.
