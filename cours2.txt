@@ -1,1 +1,5 @@
-Les BRANCHES sont comme des "sauvegarder sous" pour l'ensemble du dépôt. La branche par défaut s'appelle MASTER.
+Les BRANCHES sont comme des "sauvegarder sous" pour l'ensemble du dépôt. La branche par défaut s'appelle MASTER. Plusieurs branches = on peut travailler sur différents problèmes en même temps, en pouvant changer de tâche rapidement.
+Pour CRÉER UNE BRANCHE on fait : git branch nomdelabranche
+Pour se déplacer dans une branche : git checkout nomdelabranche
+Se déplacer et créer une branche en même temps : git checkout -b nomdelabranche
+Fusionner une branche dans une branche réceptrice : git merge
